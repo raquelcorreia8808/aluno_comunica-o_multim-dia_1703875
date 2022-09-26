@@ -2,4 +2,4 @@
 Raquel Correia 1703875
 Comunicação Multimédia
 
-.\imagens\ipglogo.jpg
+.\imagens\ipglogo.png
